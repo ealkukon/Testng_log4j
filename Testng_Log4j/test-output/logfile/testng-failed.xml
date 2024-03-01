@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [logfile]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <parameter name="website" value="https://www.myntra.com/"/>
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="ealtestng_pack.Logtestng">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="afterClass"/>
+          <include name="afterTest"/>
+          <include name="beforeClass"/>
+          <include name="verify_homepage"/>
+        </methods>
+      </class> <!-- ealtestng_pack.Logtestng -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [logfile] -->

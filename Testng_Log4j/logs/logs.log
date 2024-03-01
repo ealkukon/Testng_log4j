@@ -1,0 +1,257 @@
+execution being start
+driver is launched
+calling chrome browser
+url failed
+exception is found
+java.lang.Exception: element not found
+	at log4j.Browser_launched_1.main(Browser_launched_1.java:40) [classes/:?]
+execution being start
+driver is launched
+calling chrome browser
+url failed
+exception is found
+java.lang.Exception: element not found
+	at log4j.Browser_launched_1.main(Browser_launched_1.java:40) [classes/:?]
+execution being start
+driver is launched
+calling chrome browser
+browser maximize
+url failed
+exception is found
+java.lang.Exception: element not found
+	at log4j.Browser_launched_1.main(Browser_launched_1.java:41) [classes/:?]
+execution being start
+driver is launched
+calling chrome browser
+browser maximize
+21:06:41.179 [main] INFO  - execution being start
+21:06:42.453 [main] INFO  - driver is launched
+21:06:44.116 [main] INFO  - calling chrome browser
+21:06:44.265 [main] WARN  - browser maximize
+21:08:09.390 [main] INFO  - execution being start
+21:08:10.204 [main] INFO  - driver is launched
+21:08:12.136 [main] INFO  - calling chrome browser
+21:08:12.310 [main] WARN  - browser maximize
+21:08:13.965 [main] ERROR - url failed
+21:08:34.114 [main] ERROR - exception is found
+java.lang.Exception: element not found
+	at log4j.Browser_launched_1.main(Browser_launched_1.java:42) [classes/:?]
+21:09:19.615 [main] INFO  - execution being start
+21:09:20.378 [main] INFO  - driver is launched
+21:09:22.143 [main] INFO  - calling chrome browser
+21:09:22.291 [main] WARN  - browser maximize
+21:09:23.992 [main] ERROR - url failed
+21:09:44.142 [main] ERROR - exception is found
+java.lang.Exception: element not found
+	at log4j.Browser_launched_1.main(Browser_launched_1.java:42) [classes/:?]
+12:43:37.513 [main] INFO  - browser launched
+12:48:26.058 [main] INFO  - browser launched
+12:48:35.946 [main] INFO  - getting title
+12:48:35.957 [main] INFO  - title is collected
+12:48:35.967 [main] INFO  - title verifyed is failed
+12:48:36.453 [main] INFO  - browser going to be closed
+16:45:58.153 [main] INFO  - browser launched
+16:46:24.614 [main] INFO  - getting title
+16:46:24.635 [main] INFO  - title is collected
+16:46:24.644 [main] INFO  - title verifyed is failed
+16:46:25.166 [main] INFO  - browser going to be closed
+16:49:32.433 [main] INFO  - browser launched
+16:49:41.041 [main] INFO  - getting title
+16:49:41.059 [main] INFO  - title is collected
+16:49:41.088 [main] INFO  - title verifyed is failed
+16:49:41.109 [main] INFO  - browser going to be closed
+16:56:17.169 [main] INFO  - browser launched
+16:56:26.369 [main] INFO  - getting title
+16:56:26.387 [main] INFO  - title is collected
+16:56:26.417 [main] INFO  - title verifyed is failed
+16:56:26.437 [main] INFO  - browser going to be closed
+16:58:45.747 [main] INFO  - browser launched
+16:58:52.956 [main] INFO  - getting title
+16:58:52.975 [main] INFO  - title is collected
+16:58:53.005 [main] INFO  - title verifyed is failed
+16:58:53.678 [main] INFO  - browser going to be closed
+17:06:03.683 [main] INFO  - browser launched
+17:06:11.267 [main] INFO  - getting title
+17:06:11.285 [main] INFO  - title is collected
+17:06:11.309 [main] INFO  - title verifyed is failed
+17:06:11.798 [main] INFO  - browser going to be closed
+17:13:29.948 [main] INFO  - browser launched
+17:13:37.974 [main] INFO  - getting title
+17:13:37.994 [main] INFO  - title is collected
+17:13:38.021 [main] INFO  - title verifyed is failed
+17:13:38.560 [main] INFO  - browser going to be closed
+17:15:16.101 [main] INFO  - browser launched
+17:15:24.441 [main] INFO  - getting title
+17:15:24.464 [main] INFO  - title is collected
+17:15:24.489 [main] INFO  - title verifyed is failed
+17:15:24.521 [main] INFO  - browser going to be closed
+17:20:09.681 [main] INFO  - browser launched
+17:20:18.840 [main] INFO  - getting title
+17:20:18.852 [main] INFO  - title is collected
+17:20:18.870 [main] INFO  - title verifyed is failed
+17:20:19.456 [main] INFO  - browser going to be closed
+18:26:08.699 [main] INFO  - browser launched
+18:26:19.321 [main] INFO  - getting title
+18:26:19.338 [main] INFO  - title is collected
+18:26:19.340 [main] INFO  - title verifyed is failed
+18:26:19.883 [main] INFO  - browser going to be closed
+14:10:06.659 [main] INFO  - browser launched
+14:10:12.206 [main] INFO  - start for login
+14:10:12.214 [main] INFO  - getting title
+14:10:12.339 [main] INFO  - title is collected
+14:10:12.361 [main] INFO  - title verifyed is failed
+14:10:12.835 [main] INFO  - browser going to be closed
+14:18:45.037 [main] INFO  - browser launched
+14:18:50.836 [main] INFO  - start for login
+14:18:50.844 [main] INFO  - getting title
+14:18:50.854 [main] INFO  - title is collected
+14:18:50.867 [main] INFO  - title verifyed is failed
+14:18:51.255 [main] INFO  - browser going to be closed
+14:37:36.842 [main] INFO  - browser launched
+14:37:42.337 [main] INFO  - start for login
+14:37:42.344 [main] INFO  - getting title
+14:37:42.401 [main] INFO  - title is collected
+14:37:42.404 [main] INFO  - title verifyed is failed
+14:37:42.913 [main] INFO  - browser going to be closed
+15:13:27.862 [main] INFO  - befort test start
+15:13:27.881 [main] INFO  - browser launched
+15:13:33.278 [main] INFO  - start for login
+15:13:33.283 [main] INFO  - test t2
+15:13:33.287 [main] INFO  - getting title
+15:13:33.299 [main] INFO  - title is collected
+15:13:33.311 [main] INFO  - title verifyed is failed
+15:13:33.462 [main] INFO  - browser going to be closed
+15:13:33.620 [main] INFO  - after test start
+15:19:26.912 [main] INFO  - on start listener,extent report configurtion done
+15:19:26.926 [main] INFO  - befort test start
+15:19:26.945 [main] INFO  - browser launched
+15:19:32.489 [main] INFO  - ontest start,now executing :login
+15:19:32.503 [main] INFO  - start for login
+15:19:32.512 [main] INFO  - after test start
+15:19:32.808 [main] INFO  - on finish listener,extent report configurtion done
+15:27:24.256 [main] INFO  - on start listener,extent report configurtion done
+15:27:24.273 [main] INFO  - befort test start
+15:27:24.289 [main] INFO  - browser launched
+15:27:29.217 [main] INFO  - ontest start,now executing :login
+15:27:29.226 [main] INFO  - start for login
+15:27:29.421 [main] INFO  - ontest start,now executing :t2
+15:27:29.421 [main] INFO  - test t2
+15:27:29.561 [main] INFO  - ontest start,now executing :verify_homepage
+15:27:29.562 [main] INFO  - getting title
+15:27:29.573 [main] INFO  - title is collected
+15:27:29.581 [main] INFO  - title verifyed is failed
+15:27:29.871 [main] INFO  - browser going to be closed
+15:27:30.021 [main] INFO  - after test start
+15:27:30.352 [main] INFO  - on finish listener,extent report configurtion done
+15:28:48.429 [main] INFO  - on start listener,extent report configurtion done
+15:28:48.445 [main] INFO  - befort test start
+15:28:48.462 [main] INFO  - browser launched
+15:28:53.568 [main] INFO  - ontest start,now executing :login
+15:28:53.579 [main] INFO  - start for login
+15:28:53.754 [main] INFO  - ontest start,now executing :t2
+15:28:53.754 [main] INFO  - test t2
+15:28:53.904 [main] INFO  - ontest start,now executing :verify_homepage
+15:28:53.904 [main] INFO  - getting title
+15:28:53.915 [main] INFO  - title is collected
+15:28:53.925 [main] INFO  - title verifyed is failed
+15:28:54.227 [main] INFO  - browser going to be closed
+15:28:54.377 [main] INFO  - after test start
+15:28:54.675 [main] INFO  - on finish listener,extent report configurtion done
+15:33:28.835 [main] INFO  - on start listener,extent report configurtion done
+15:33:28.852 [main] INFO  - befort test start
+15:33:28.868 [main] INFO  - browser launched
+15:33:33.289 [main] INFO  - ontest start,now executing :login
+15:33:33.300 [main] INFO  - start for login
+15:33:33.455 [main] INFO  - ontest start,now executing :t2
+15:33:33.456 [main] INFO  - test t2
+15:33:33.617 [main] INFO  - ontest start,now executing :verify_homepage
+15:33:33.617 [main] INFO  - getting title
+15:33:33.628 [main] INFO  - title is collected
+15:33:33.638 [main] INFO  - title verifyed is failed
+15:33:33.909 [main] INFO  - browser going to be closed
+15:33:34.045 [main] INFO  - after test start
+15:33:34.404 [main] INFO  - on finish listener,extent report configurtion done
+20:47:36.038 [main] INFO  - on start listener,extent report configurtion done
+20:47:36.080 [main] INFO  - befort test start
+20:47:36.131 [main] INFO  - browser launched
+20:47:44.334 [main] INFO  - ontest start,now executing :login
+20:47:44.373 [main] INFO  - start for login
+20:47:44.734 [main] INFO  - ontest start,now executing :t2
+20:47:44.736 [main] INFO  - test t2
+20:47:45.079 [main] INFO  - ontest start,now executing :verify_homepage
+20:47:45.082 [main] INFO  - getting title
+20:47:45.103 [main] INFO  - title is collected
+20:47:45.120 [main] INFO  - title verifyed is failed
+20:47:45.611 [main] INFO  - browser going to be closed
+20:47:46.028 [main] INFO  - after test start
+20:47:47.081 [main] INFO  - on finish listener,extent report configurtion done
+20:50:30.683 [main] INFO  - on start listener,extent report configurtion done
+20:50:30.729 [main] INFO  - befort test start
+20:50:30.762 [main] INFO  - browser launched
+20:50:38.744 [main] INFO  - ontest start,now executing :login
+20:50:38.773 [main] INFO  - start for login
+20:50:39.254 [main] INFO  - ontest start,now executing :t2
+20:50:39.257 [main] INFO  - test t2
+20:50:39.551 [main] INFO  - ontest start,now executing :verify_homepage
+20:50:39.552 [main] INFO  - getting title
+20:50:39.566 [main] INFO  - title is collected
+20:50:39.567 [main] INFO  - title is matched
+20:50:40.081 [main] INFO  - browser going to be closed
+20:50:40.393 [main] INFO  - after test start
+20:50:41.242 [main] INFO  - on finish listener,extent report configurtion done
+18:29:34.406 [main] INFO  - on start listener,extent report configurtion done
+18:29:34.425 [main] INFO  - befort test start
+18:29:34.446 [main] INFO  - browser launched
+18:29:40.446 [main] INFO  - ontest start,now executing :login
+18:29:40.464 [main] INFO  - start for login
+18:29:40.737 [main] INFO  - ontest start,now executing :t2
+18:29:40.737 [main] INFO  - test t2
+18:29:40.956 [main] INFO  - ontest start,now executing :verify_homepage
+18:29:40.956 [main] INFO  - getting title
+18:29:40.965 [main] INFO  - title is collected
+18:29:40.965 [main] INFO  - title is matched
+18:29:41.334 [main] INFO  - browser going to be closed
+18:29:41.489 [main] INFO  - after test start
+18:29:41.823 [main] INFO  - on finish listener,extent report configurtion done
+19:43:01.307 [main] INFO  - on start listener,extent report configurtion done
+19:43:01.349 [main] INFO  - befort test start
+19:43:01.398 [main] INFO  - browser launched
+19:43:11.732 [main] INFO  - ontest start,now executing :login
+19:43:11.771 [main] INFO  - start for login
+19:43:12.175 [main] INFO  - ontest start,now executing :t2
+19:43:12.177 [main] INFO  - test t2
+19:43:12.448 [main] INFO  - ontest start,now executing :verify_homepage
+19:43:12.449 [main] INFO  - getting title
+19:43:12.466 [main] INFO  - title is collected
+19:43:12.467 [main] INFO  - title is matched
+19:43:13.088 [main] INFO  - browser going to be closed
+19:43:13.371 [main] INFO  - after test start
+19:43:14.481 [main] INFO  - on finish listener,extent report configurtion done
+19:54:50.692 [main] INFO  - on start listener,extent report configurtion done
+19:54:50.735 [main] INFO  - befort test start
+19:54:50.778 [main] INFO  - browser launched
+19:54:59.352 [main] INFO  - ontest start,now executing :login
+19:54:59.409 [main] INFO  - start for login
+19:55:00.067 [main] INFO  - ontest start,now executing :t2
+19:55:00.069 [main] INFO  - test t2
+19:55:00.427 [main] INFO  - ontest start,now executing :verify_homepage
+19:55:00.428 [main] INFO  - getting title
+19:55:00.455 [main] INFO  - title is collected
+19:55:00.456 [main] INFO  - title is matched
+19:55:01.105 [main] INFO  - browser going to be closed
+19:55:01.412 [main] INFO  - after test start
+19:55:02.394 [main] INFO  - on finish listener,extent report configurtion done
+19:57:23.104 [main] INFO  - on start listener,extent report configurtion done
+19:57:23.134 [main] INFO  - befort test start
+19:57:23.175 [main] INFO  - browser launched
+19:57:31.329 [main] INFO  - ontest start,now executing :login
+19:57:31.351 [main] INFO  - start for login
+19:57:31.734 [main] INFO  - ontest start,now executing :t2
+19:57:31.735 [main] INFO  - test t2
+19:57:32.039 [main] INFO  - ontest start,now executing :verify_homepage
+19:57:32.042 [main] INFO  - getting title
+19:57:32.054 [main] INFO  - title is collected
+19:57:32.056 [main] INFO  - title is matched
+19:57:32.598 [main] INFO  - browser going to be closed
+19:57:32.943 [main] INFO  - after test start
+19:57:33.968 [main] INFO  - on finish listener,extent report configurtion done
