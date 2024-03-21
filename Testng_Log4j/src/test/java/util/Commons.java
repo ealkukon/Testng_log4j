@@ -31,7 +31,7 @@ public class Commons {
 	String ud= System.getProperty("user.dir");
 	public Logger log=LogManager.getLogger(Logtestng.class);
 public	ExtentReports extent = new ExtentReports();
-public  ExtentSparkReporter spark = new ExtentSparkReporter("Results/_"+System.currentTimeMillis()+"Spark.html");
+public  ExtentSparkReporter spark = new ExtentSparkReporter("Results/jenkins_extentReport.html");
 	public  ExtentTest test;
 	
 	 public  void waitfortitle(String pagetitle,WebDriver driver) {
