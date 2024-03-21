@@ -35,8 +35,9 @@ public class Logtestng extends utilitie_1 {
 		 test.log(Status.FAIL,MarkupHelper.createLabel("verify homepage failed",ExtentColor.RED));
          test.addScreenCaptureFromPath(capturessfor("failed"),"verify hompage failed");
 	 }
+	 System.out.println("this is kukon");
 	 
-	  
+	
 	  
   }
   @Test
