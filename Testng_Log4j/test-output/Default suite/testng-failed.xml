@@ -5,7 +5,13 @@
     <classes>
       <class name="ealtestng_pack.Logtestng">
         <methods>
-          <include name="f"/>
+          <include name="beforeTest"/>
+          <include name="login"/>
+          <include name="afterClass"/>
+          <include name="afterTest"/>
+          <include name="beforeClass"/>
+          <include name="verify_homepage"/>
+          <include name="t2"/>
         </methods>
       </class> <!-- ealtestng_pack.Logtestng -->
     </classes>
